@@ -1,0 +1,12 @@
+{
+  "name": "int_499",
+  "version": "1.0.0",
+  "description": "import { useState } from \"react\"; import { FaPlus, FaTrash, FaLock, FaUnlock } from \"react-icons/fa\"; import CryptoJS from \"crypto-js\"; // Import Crypto library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
